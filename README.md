@@ -508,8 +508,8 @@ I am a recent graduate with a **Master of Science in Analytics** from the **Univ
 
 I am actively seeking opportunities as a **Data Analyst** or **Business Analyst**, where I can leverage my technical expertise, analytical mindset, and passion for data to drive impactful decisions. If you're looking for someone who can turn data into meaningful stories and solutions, let's connect!
 
-- **LinkedIn**: [Runrun Mao](www.linkedin.com/in/runrun-mao)  
+- **LinkedIn**: [Runrun Mao](https://www.linkedin.com/in/runrun-mao/)  
 - **Email**: [runrunmao0202@gmail.com](mailto:runrunmao0202@gmail.com)  
-- **GitHub**: [RunrunMaoGitHub](https://github.com/runrunmaoGitHub)  
+- **GitHub**: [RunrunMaoGitHub](https://github.com/runrunmao)  
 
 I’m always open to collaborating on interesting projects, discussing data trends, or exploring new opportunities. Feel free to reach out—I’d love to hear from you!
