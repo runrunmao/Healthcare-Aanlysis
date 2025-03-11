@@ -18,7 +18,7 @@
 
 
 ## Overview
-This project showcases my expertise in SQL for data cleaning, analysis, and visualization using a healthcare dataset. The goal was to extract actionable insights to improve patient outcomes, optimize hospital operations, and support decision-making. This project demonstrates my ability to handle real-world data challenges, derive meaningful insights, and present them in a clear and professional manner.
+Healthcare analytics is vital for improving patient care, operational efficiency, and cost management. This project showcases my expertise in SQL for data cleaning and analysisusing a healthcare dataset. The goal was to extract actionable insights to improve patient outcomes, optimize hospital operations, and support decision-making. This project demonstrates my ability to handle real-world data challenges, derive meaningful insights, and present them in a clear and professional manner.
 
 
 
@@ -43,8 +43,7 @@ The dataset contains healthcare-related information, including
 - Test results and medications.
 
 ### Tools Used
-- **SQL**: For querying, cleaning, and analyzing the dataset
-- **Database Management System** : PostgreSQL
+- PostgreSQL
 
 
 
@@ -570,9 +569,9 @@ FROM BillingByAge;
 ```
 
 ## Future Enhancements
-- Incorporate machine learning models to predict patient readmissions.
-- Expand the dataset to include more variables for deeper analysis.
-- Create an interactive dashboard for real-time data exploration.
+- **Predictive modeling** : Incorporate machine learning models to predict patient readmissions.
+- **Data Expansion** :Expand the dataset to include more variables for deeper analysis.
+- **Interactive dashboards**: Develop visual tools for real-time insights.
 
 ## Connect with Me
 
