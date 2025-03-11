@@ -18,7 +18,7 @@
 
 
 ## Overview
-Healthcare analytics is vital for improving patient care, operational efficiency, and cost management. This project showcases my expertise in SQL for data cleaning and analysisusing a healthcare dataset. The goal was to extract actionable insights to improve patient outcomes, optimize hospital operations, and support decision-making. This project demonstrates my ability to handle real-world data challenges, derive meaningful insights, and present them in a clear and professional manner.
+Healthcare analytics plays a critical role in improving patient care, optimizing operations, and reducing costs. This project demonstrates my expertise in **SQL** for data cleaning, analysis, and deriving actionable insights from a healthcare dataset. By addressing real-world challenges, I identified trends, patterns, and key metrics to support decision-making and improve patient outcomes. This project highlights my ability to transform raw data into meaningful solutions, showcasing my technical skills and problem-solving abilities as a **Data Analyst**.
 
 
 
@@ -83,7 +83,7 @@ Performed a comprehensive analysis to answer key business questions, including:
 
 ### **2. Patient Engagement and Frequency**
 - Patients such as **Danielle Garcia**, **Maria Johnson**, and **Michael Jones** had the most frequent visits (**3 visits each**).
-  - **Insight**: Frequent visitors may benefit from personalized follow-up programs, including regular check-ins, comprehensive discharge planning, and patient education on chronic disease management, to reduce readmissions and improve long-term health outcomes.
+  - **Insight**: Frequent visitors may benefit from personalized follow-up programs to reduce readmissions and improve long-term health outcomes.
 
 
 ### **3. Medical Conditions Treated**
@@ -93,7 +93,7 @@ Performed a comprehensive analysis to answer key business questions, including:
 
 ### **4. Billing Analysis**
 - The **highest single medical bill** recorded was **$52,764.28** (Patient: **Todd Carrillo**).
-  - **Insight**: High-cost patients may benefit from cost-effective strategies, such as bundled treatment packages, generic medication alternatives, or structured financial assistance programs, to alleviate financial burdens and ensure accessible care.
+  - **Insight**: High-cost patients may benefit from cost-effective strategies, such as bundled treatment packages or financial assistance programs.
 
 - The **lowest positive medical bill** was only **$9.24** (Patient: **Wendy Dillon**), indicating significant variability in billing amounts.
   - **Insight**: Hospitals should investigate the reasons for such variability, such as administrative errors, discrepancies in treatment complexity, or inconsistent billing procedures, to ensure fair and consistent billing practices.
